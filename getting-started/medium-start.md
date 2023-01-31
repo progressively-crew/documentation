@@ -4,9 +4,7 @@ description: Starting with control, practical for contributors
 
 # Medium Start
 
-{% hint style="info" %}
-In this guide, you will install Postgres and Redis through [Docker](https://www.docker.com/). But you can run them directly on your machine if you prefer.
-{% endhint %}
+> :information\_source: In this guide, you will install Postgres and Redis through [Docker](https://www.docker.com/). But you can run them directly on your machine if you prefer.
 
 Open your favorite terminal and run the following:
 

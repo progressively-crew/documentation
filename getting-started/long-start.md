@@ -72,7 +72,9 @@ You can decide to install [Redis](https://redis.io/) from its website or you can
 $ docker run -it --rm --name progressively-redis -p 6379:6379 -d redis
 ```
 
-> :information\_source: Redis is used to handle WebSockets at scale in case you want to start Progressively on multiple machines.
+{% hint style="info" %}
+Redis is used to handle WebSockets at scale in case you want to start Progressively on multiple machines.
+{% endhint %}
 
 #### Setup the monorepo
 
