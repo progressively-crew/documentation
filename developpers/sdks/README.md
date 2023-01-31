@@ -4,8 +4,8 @@ description: Multiple SDKs adapted to your application needs, and language.
 
 # SDKs
 
-{% content-ref url="javascript.md" %}
-[javascript.md](javascript.md)
+{% content-ref url="javascript-web.md" %}
+[javascript-web.md](javascript-web.md)
 {% endcontent-ref %}
 
 {% content-ref url="node.js.md" %}

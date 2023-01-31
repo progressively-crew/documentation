@@ -16,7 +16,7 @@
 ## Developpers
 
 * [SDKs](developpers/sdks/README.md)
-  * [JavaScript](developpers/sdks/javascript.md)
+  * [JavaScript (web)](developpers/sdks/javascript-web.md)
   * [Node.js](developpers/sdks/node.js.md)
   * [React](developpers/sdks/react.md)
   * [PHP](developpers/sdks/php.md)
