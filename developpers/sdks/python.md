@@ -1,3 +1,7 @@
+---
+description: The Python SDK to interact with Progressively
+---
+
 # Python
 
 ### Installation <a href="#installation" id="installation"></a>
