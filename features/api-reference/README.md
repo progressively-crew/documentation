@@ -1,23 +1,23 @@
----
-description: Giving you control and flexibility at every level possible.
----
+# API Reference
 
-# Hierarchical organisation
+Dive into the specifics of each API endpoint by checking out our complete documentation.
 
-Progressively is built on top of 3 entities that are:
+## Pets
 
-* projects
-* environments
-* feature flags
+All the methods associated with `CRUD`ing some pets. Which isn't as weird as it sounds:
 
-Each **project** can have **multiple environments** that can have **multiple feature flags**.
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-This hierarchical structure allows the same instance of Progressively to hold multiple projects, but also to apply different feature flag resolution rules to different environments.
+## Users
 
-For example, if I have a `New merchant store` project with 3 environments (`Development`, `Staging`, `Production`), I can define different flag resolution rules for each of these environments.
+Everything related to users:
 
-This is practical for testing early in the process, on a not-so-critical environment with more permissive rules, and to keep strong constraints on the `Production` environment.
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 {% hint style="info" %}
-Note that when creating a feature flag on a given environment, it will also be created for the other environments of the given project, **for consistency purposes**. This way, when using a specific flag in your codebase, **it will resolve a value**. Of course, you can define specific rollout configurations for a flag in each environment.
+**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [Broken link](broken-reference "mention") – if you don't want a block-level link.
 {% endhint %}
