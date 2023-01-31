@@ -17,3 +17,14 @@ Any of the **quantitive** or **qualitative** rules will only apply if the featur
 After a feature flag creation, you can decide which percentage of your audience should receive the `true` variation of your feature flag using the slider in the **"Audience"** pane:ge
 
 <figure><img src="../.gitbook/assets/screely-1675176883577.png" alt="Progressively dashboard with 100% of rollout"><figcaption></figcaption></figure>
+
+### The qualitative way
+
+You can also choose to add additional eligibility constraints.
+
+For example, it's possible to create rules that will allow **50%** of the users that match the following two rules to see the `true` variant of the flag:
+
+* People with an **email containing @progressively.app**
+* People with an **email containing @bestfriends.com**
+
+<figure><img src="../.gitbook/assets/screely-1675177124874.png" alt="Progressively dashboard with a configuration allowing 50% of the users matching the given rules to resolve the feature flag."><figcaption></figcaption></figure>
