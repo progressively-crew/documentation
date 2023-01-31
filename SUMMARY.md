@@ -15,6 +15,7 @@
 * [Scheduling a feature flag update](features/scheduling-a-feature-flag-update.md)
 * [Feature flag variants](features/feature-flag-variants.md)
 * [Tracking the impact of a flag](features/tracking-the-impact-of-a-flag.md)
+* [Understanding the situation](features/understanding-the-situation.md)
 
 ## Developpers
 
