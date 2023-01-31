@@ -6,11 +6,13 @@ description: Ready to rollout your brand new feature to the world?
 
 Welcome to Progressively, and first of all, thanks for you interest! Our docs cover everything from the service setup on your machine to the SDK integration inside your applications.
 
-> :information\_source: If you face any issues, or if you have suggestions to improve the Product, please, feel free to open an issue on the [GitHub repository](https://github.com/progressively-crew/progressively/issues)!
+{% hint style="info" %}
+If you face any issues, or if you have suggestions to improve the Product, please, feel free to open an issue on the [GitHub repository](https://github.com/progressively-crew/progressively/issues)!
+{% endhint %}
 
 ## Want to jump right in?
 
-Feeling like an eager beaver? Jump in to the quick start docs and get your instance ready:
+Feeling like an eager beaver? Jump into the quick start docs and get your instance ready:
 
 {% content-ref url="getting-started/quick-start.md" %}
 [quick-start.md](getting-started/quick-start.md)
