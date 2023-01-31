@@ -14,4 +14,6 @@ Any of the **quantitive** or **qualitative** rules will only apply if the featur
 
 ### The quantitative way
 
-After a feature flag creation, you can decide which percentage of your audience should receive the `true` variation of your feature flag.
+After a feature flag creation, you can decide which percentage of your audience should receive the `true` variation of your feature flag using the slider in the **"Audience"** pane:ge
+
+<figure><img src="../.gitbook/assets/screely-1675176883577.png" alt="Progressively dashboard with 100% of rollout"><figcaption></figcaption></figure>
