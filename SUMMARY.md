@@ -10,10 +10,10 @@
 
 ## Features
 
-* [Hierarchical organisation](features/hierarchical-organisation.md)
+* [Hierarchical organisation](features/api-reference/README.md)
 * [Feature flag targeting](features/feature-flag-targeting.md)
-* [Feature flag variants](features/feature-flag-variants.md)
 * [Scheduling a feature flag update](features/scheduling-a-feature-flag-update.md)
+* [Feature flag variants](features/feature-flag-variants.md)
 * [Tracking the impact of a flag](features/tracking-the-impact-of-a-flag.md)
 
 ## Developpers
