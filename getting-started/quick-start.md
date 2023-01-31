@@ -4,9 +4,7 @@ description: Ready, at the speed of light!
 
 # Quick Start
 
-{% hint style="info" %}
-This guide assumes you have [Docker](https://www.docker.com/) & [Docker Compose ](https://docs.docker.com/compose/)installed
-{% endhint %}
+> :information\_source: This guide assumes you have [Docker](https://www.docker.com/) & [Docker Compose ](https://docs.docker.com/compose/)installed
 
 Open your favorite terminal and run the following:
 
