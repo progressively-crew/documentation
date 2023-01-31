@@ -15,6 +15,13 @@
 
 ## Developpers
 
+* [SDKs](developpers/sdks/README.md)
+  * [JavaScript](developpers/sdks/javascript.md)
+  * [Node.js](developpers/sdks/node.js.md)
+  * [React](developpers/sdks/react.md)
+  * [PHP](developpers/sdks/php.md)
+  * [Go](developpers/sdks/go.md)
+  * [Python](developpers/sdks/python.md)
 * [Customization](developpers/customization/README.md)
   * [Backend environment variables](developpers/customization/backend-environment-variables.md)
   * [Frontend environment variables](developpers/customization/frontend-environment-variables.md)
