@@ -35,9 +35,9 @@ There is a last way to target a specific set of users. I tend to call these user
 
 Imagine that you are building a very new fancy feature that you are about to roll out. But you lack confidence, and you want to roll it out slowly. Let's say 10% of your audience for starting.
 
-Now you may wonder:
+You may wonder:
 
-> _I want to be part of these 10% people so that I can play with my team with this new feature"_
+> _I want to be part of these 10% people so that I can play with my team with this new feature_
 
 With the **Eligibility Audience** rules, it's not possible, since they aim to add another level of filtering, not a level of opening.
 
