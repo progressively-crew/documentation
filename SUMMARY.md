@@ -15,8 +15,9 @@
 
 ## Developpers
 
-* [API Reference](developpers/api-reference/README.md)
-  * [Users](developpers/api-reference/users.md)
+* [Customization](developpers/customization/README.md)
+  * [Backend environment variables](developpers/customization/backend-environment-variables.md)
+  * [Frontend environment variables](developpers/customization/frontend-environment-variables.md)
 
 ## Community
 

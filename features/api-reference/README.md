@@ -14,8 +14,8 @@ All the methods associated with `CRUD`ing some pets. Which isn't as weird as it 
 
 Everything related to users:
 
-{% content-ref url="../../developpers/api-reference/users.md" %}
-[users.md](../../developpers/api-reference/users.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
