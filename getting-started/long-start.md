@@ -29,9 +29,8 @@ The project code is stored in [a repository on the GitHub platform](https://gith
 4. Start Redis
 5. Setup the monorepo
 6. Create Postgres tables
-7. Start the backend project
-8. Start the frontend project
-9. Follow the onboarding steps
+7. Start the frontend & backend project
+8. Follow the onboarding steps
 
 ### Let's get into it, step by step
 
@@ -81,7 +80,7 @@ Redis is used to handle WebSockets at scale in case you want to start Progressiv
 The following command will install the project dependencies and create the links between the different packages of the monorepo:
 
 ```shell
-$ npm run setup
+$ pnpm run setup
 ```
 
 #### Create Postgres tables
@@ -89,28 +88,20 @@ $ npm run setup
 The following command will leverage [Prisma](https://www.prisma.io/) to create the tables that Progressively needs in Postgres. You should only have to run this command once.
 
 ```shell
-$ npm run db:prepare
+$ pnpm run db:prepare
 ```
 
-#### Start the backend project
+#### Start the backend & frontend project
 
-You are now ready to start the project. In order to run the backend side of Progressively (APIs + WebSocket server + Business logic), you will have to run the following command inside the `./packages/backend` folder:
+At the project run, you can start the frontend and the backend project in dev mode:
 
 ```shell
-$ npm run dev
+$ pnpm run dev
 ```
 
 The backend is now available locally at [http://localhost:4000](http://localhost:4000).
 
-#### Start the frontend project
 
-You can now run the same command inside the `./packages/frontend` package:
-
-```shell
-$ npm run dev
-```
-
-The frontend is now available locally at [http://localhost:3000](http://localhost:3000).
 
 #### Follow the onboarding steps
 
