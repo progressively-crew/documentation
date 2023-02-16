@@ -25,10 +25,10 @@ $ docker run --name progressively-db -e POSTGRES_PASSWORD=admin -e POSTGRES_USER
 $ docker run -it --rm --name progressively-redis -p 6379:6379 -d redis
 
 # Setup the monorepo and prepare the Database table structure. It's a one-off command
-$ npm run setup && npm run db:prepare
+$ pnpm run setup && pnpm run build && pnpm run db:prepare
 
 # Start the project in development mode
-$ npm run start:dev
+$ pnpm run dev
 ```
 
 Go to [http://localhost:3000/welcome](http://localhost:3000/welcome) and let you drive in the onboarding steps to create your Admin User and your first project.
